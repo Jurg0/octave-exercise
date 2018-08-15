@@ -1,2 +1,2 @@
-# octave-exercise
+# R-exercise
 collecting and processing data
